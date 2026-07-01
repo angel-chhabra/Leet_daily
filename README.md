@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/angel-chhabra/Leet_daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [1021-remove-outermost-parentheses](https://github.com/angel-chhabra/Leet_daily/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -28,4 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/angel-chhabra/Leet_daily/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
