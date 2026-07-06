@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/angel-chhabra/Leet_daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/angel-chhabra/Leet_daily/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/angel-chhabra/Leet_daily/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/angel-chhabra/Leet_daily/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/angel-chhabra/Leet_daily/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/angel-chhabra/Leet_daily/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
