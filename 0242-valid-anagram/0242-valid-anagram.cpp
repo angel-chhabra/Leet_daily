@@ -1,6 +1,23 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
+        unordered_map<char ,int> map;
+        if(s.length()!=t.length()){
+            return false;
+        }
+        for(char i: s){
+            map[i]++;
+        }
+        for(char i: t){
+            if(map[i]==0){
+                return false;
+            }
+            map[i]--;;
+        }
+        return true;
+    }
+
+
         // sort(s.begin() , s.end());
         // sort(t.begin() , t.end());
         // if(s==t){
@@ -9,19 +26,20 @@ public:
         //     return false;
         // }
 
-        if(s.length()!=t.length()){
-            return false;
-        }
-        int count[26]={0};
-        for(int i=0;i<s.length();i++){
-            count[s[i]-'a']++;
-            count[t[i]-'a']--;
-        }
-        for(int i=0;i<26;i++){
-            if(count[i]!=0){
-                return false;
-            }
-        }
-        return true; 
-    }
+
+    //     if(s.length()!=t.length()){
+    //         return false;
+    //     }
+    //     int count[26]={0};
+    //     for(int i=0;i<s.length();i++){
+    //         count[s[i]-'a']++;
+    //         count[t[i]-'a']--;
+    //     }
+    //     for(int i=0;i<26;i++){
+    //         if(count[i]!=0){
+    //             return false;
+    //         }
+    //     }
+    //     return true; 
+    // }
 };
