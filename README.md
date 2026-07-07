@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/angel-chhabra/Leet_daily/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/angel-chhabra/Leet_daily/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/angel-chhabra/Leet_daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/angel-chhabra/Leet_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/angel-chhabra/Leet_daily/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/angel-chhabra/Leet_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/angel-chhabra/Leet_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/angel-chhabra/Leet_daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/angel-chhabra/Leet_daily/tree/master/1480-running-sum-of-1d-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/angel-chhabra/Leet_daily/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
