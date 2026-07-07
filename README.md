@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/angel-chhabra/Leet_daily/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/angel-chhabra/Leet_daily/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/angel-chhabra/Leet_daily/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/angel-chhabra/Leet_daily/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/angel-chhabra/Leet_daily/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/angel-chhabra/Leet_daily/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/angel-chhabra/Leet_daily/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/angel-chhabra/Leet_daily/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -70,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/angel-chhabra/Leet_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/angel-chhabra/Leet_daily/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/angel-chhabra/Leet_daily/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/angel-chhabra/Leet_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/angel-chhabra/Leet_daily/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 ## Interactive
 |  |
 | ------- |
