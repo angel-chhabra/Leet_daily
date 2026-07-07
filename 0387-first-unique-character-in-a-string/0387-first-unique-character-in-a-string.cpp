@@ -2,7 +2,7 @@ class Solution {
 public:
     int firstUniqChar(string s) {
         int freq[26]={0};
-        queue<char> q;
+        queue<char> q;    //else aap queue<int> q bhi bna skte the and indices store krate string ke har char ki bcoz ultimately hme index hi return krna h 
         for(int i=0;i<s.size();i++){
             char ch=s[i];
             q.push(ch);
