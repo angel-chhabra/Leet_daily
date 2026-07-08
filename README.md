@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/angel-chhabra/Leet_daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/angel-chhabra/Leet_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/angel-chhabra/Leet_daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/angel-chhabra/Leet_daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0567-permutation-in-string) |
 | [2404-most-frequent-even-element](https://github.com/angel-chhabra/Leet_daily/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/angel-chhabra/Leet_daily/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/angel-chhabra/Leet_daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/angel-chhabra/Leet_daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
