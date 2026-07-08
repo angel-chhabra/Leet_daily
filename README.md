@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/angel-chhabra/Leet_daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/angel-chhabra/Leet_daily/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/angel-chhabra/Leet_daily/tree/master/0704-binary-search) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/angel-chhabra/Leet_daily/tree/master/1480-running-sum-of-1d-array) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/angel-chhabra/Leet_daily/tree/master/2404-most-frequent-even-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/angel-chhabra/Leet_daily/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
