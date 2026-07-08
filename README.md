@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/angel-chhabra/Leet_daily/tree/master/0704-binary-search) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/angel-chhabra/Leet_daily/tree/master/1480-running-sum-of-1d-array) |
 | [2404-most-frequent-even-element](https://github.com/angel-chhabra/Leet_daily/tree/master/2404-most-frequent-even-element) |
 ## Stack
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/angel-chhabra/Leet_daily/tree/master/1480-running-sum-of-1d-array) |
 ## Union-Find
 |  |
