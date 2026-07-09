@@ -7,10 +7,11 @@ public:
         int curr_sum=0;
         for(auto i:nums){
             curr_sum+=i;
-            if(map.count((curr_sum%k+k)%k)){
-                count+=map[(curr_sum%k+k)%k];
+            int rem=(curr_sum%k+k)%k; //agr sum-ve aye to -ve integeres hi vo dhundega , thats why to get a +ve rem.
+            if(map.count(rem)){     
+                count+=map[rem];
             }
-            map[(curr_sum%k+k)%k]++;
+            map[rem]++;
         }
         return count;
         
