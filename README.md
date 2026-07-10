@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/angel-chhabra/Leet_daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/angel-chhabra/Leet_daily/tree/master/1480-running-sum-of-1d-array) |
+| [1695-maximum-erasure-value](https://github.com/angel-chhabra/Leet_daily/tree/master/1695-maximum-erasure-value) |
 | [2404-most-frequent-even-element](https://github.com/angel-chhabra/Leet_daily/tree/master/2404-most-frequent-even-element) |
 ## Stack
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1695-maximum-erasure-value](https://github.com/angel-chhabra/Leet_daily/tree/master/1695-maximum-erasure-value) |
 | [2404-most-frequent-even-element](https://github.com/angel-chhabra/Leet_daily/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/angel-chhabra/Leet_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/angel-chhabra/Leet_daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/angel-chhabra/Leet_daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/angel-chhabra/Leet_daily/tree/master/1695-maximum-erasure-value) |
 <!---LeetCode Topics End-->
