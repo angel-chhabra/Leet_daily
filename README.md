@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/angel-chhabra/Leet_daily/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/angel-chhabra/Leet_daily/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/angel-chhabra/Leet_daily/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/angel-chhabra/Leet_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/angel-chhabra/Leet_daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/angel-chhabra/Leet_daily/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1695-maximum-erasure-value](https://github.com/angel-chhabra/Leet_daily/tree/master/1695-maximum-erasure-value) |
 | [2404-most-frequent-even-element](https://github.com/angel-chhabra/Leet_daily/tree/master/2404-most-frequent-even-element) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/angel-chhabra/Leet_daily/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/angel-chhabra/Leet_daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/angel-chhabra/Leet_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/angel-chhabra/Leet_daily/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/angel-chhabra/Leet_daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
