@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/angel-chhabra/Leet_daily/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/angel-chhabra/Leet_daily/tree/master/0643-maximum-average-subarray-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/angel-chhabra/Leet_daily/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/angel-chhabra/Leet_daily/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/angel-chhabra/Leet_daily/tree/master/0704-binary-search) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/angel-chhabra/Leet_daily/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1572-matrix-diagonal-sum) |
