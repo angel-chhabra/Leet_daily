@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/angel-chhabra/Leet_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/angel-chhabra/Leet_daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/angel-chhabra/Leet_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/angel-chhabra/Leet_daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/angel-chhabra/Leet_daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/angel-chhabra/Leet_daily/tree/master/1695-maximum-erasure-value) |
 | [2404-most-frequent-even-element](https://github.com/angel-chhabra/Leet_daily/tree/master/2404-most-frequent-even-element) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/angel-chhabra/Leet_daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/angel-chhabra/Leet_daily/tree/master/2404-most-frequent-even-element) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/angel-chhabra/Leet_daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -182,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/angel-chhabra/Leet_daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/angel-chhabra/Leet_daily/tree/master/1695-maximum-erasure-value) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/angel-chhabra/Leet_daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 <!---LeetCode Topics End-->
