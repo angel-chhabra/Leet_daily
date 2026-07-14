@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/angel-chhabra/Leet_daily/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/angel-chhabra/Leet_daily/tree/master/1695-maximum-erasure-value) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/angel-chhabra/Leet_daily/tree/master/2404-most-frequent-even-element) |
 ## Stack
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/angel-chhabra/Leet_daily/tree/master/1672-richest-customer-wealth) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Simulation
 |  |
 | ------- |
