@@ -222,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/angel-chhabra/Leet_daily/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/angel-chhabra/Leet_daily/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
