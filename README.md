@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/angel-chhabra/Leet_daily/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/angel-chhabra/Leet_daily/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/angel-chhabra/Leet_daily/tree/master/1291-sequential-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
