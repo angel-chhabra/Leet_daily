@@ -109,17 +109,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/angel-chhabra/Leet_daily/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/angel-chhabra/Leet_daily/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/angel-chhabra/Leet_daily/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/angel-chhabra/Leet_daily/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/angel-chhabra/Leet_daily/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/angel-chhabra/Leet_daily/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/angel-chhabra/Leet_daily/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/angel-chhabra/Leet_daily/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
