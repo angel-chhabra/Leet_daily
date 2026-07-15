@@ -5,9 +5,10 @@ public:
         int end=30;
         while(start<=end){
             int mid=start +(end-start)/2;
-            if(pow(3 , mid)==n){
+            double val=pow(3 , mid);
+            if(val==n){
                 return true;
-            } else if(pow(3 , mid)>n){
+            } else if(val>n){
                 end=mid-1;
             } else{
                 start=mid+1;
