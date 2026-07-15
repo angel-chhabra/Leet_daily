@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/angel-chhabra/Leet_daily/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/angel-chhabra/Leet_daily/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/angel-chhabra/Leet_daily/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/angel-chhabra/Leet_daily/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
