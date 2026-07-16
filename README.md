@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/angel-chhabra/Leet_daily/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/angel-chhabra/Leet_daily/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/angel-chhabra/Leet_daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/angel-chhabra/Leet_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/angel-chhabra/Leet_daily/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/angel-chhabra/Leet_daily/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/angel-chhabra/Leet_daily/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/angel-chhabra/Leet_daily/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
