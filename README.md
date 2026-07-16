@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/angel-chhabra/Leet_daily/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0713-subarray-product-less-than-k) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/angel-chhabra/Leet_daily/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/angel-chhabra/Leet_daily/tree/master/1004-max-consecutive-ones-iii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/angel-chhabra/Leet_daily/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1572-matrix-diagonal-sum) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/angel-chhabra/Leet_daily/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/angel-chhabra/Leet_daily/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Enumeration
 |  |
