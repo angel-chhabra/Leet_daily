@@ -10,16 +10,15 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode* head,ListNode* prev){
-       if(head == NULL)return prev;
-       ListNode* next = head->next;
-        head->next = prev;
-        prev = head;
-        head = next;
-        return reverse(head,prev);
-
-    }
+ListNode* reverse(ListNode*head , ListNode* prev){
+    if(head==NULL) return prev;
+    ListNode* next=head->next;   //kind of swapping hori h , with help of 3 variables
+    head->next=prev;
+    prev=head;
+    head=next;
+    return reverse(head , prev);
+};
     ListNode* reverseList(ListNode* head) {
-        return reverse(head,NULL);
+        return reverse(head , NULL);
     }
 };
