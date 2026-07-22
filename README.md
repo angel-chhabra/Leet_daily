@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/angel-chhabra/Leet_daily/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/angel-chhabra/Leet_daily/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0560-subarray-sum-equals-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/angel-chhabra/Leet_daily/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/angel-chhabra/Leet_daily/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/angel-chhabra/Leet_daily/tree/master/0704-binary-search) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/angel-chhabra/Leet_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0567-permutation-in-string) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/angel-chhabra/Leet_daily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/angel-chhabra/Leet_daily/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/angel-chhabra/Leet_daily/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
 ## Recursion
