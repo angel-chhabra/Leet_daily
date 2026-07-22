@@ -1,76 +1,115 @@
 class LRUCache {
 public:
-
-class Node{
+    class Node {
     public:
-    int key ,  val;
-    Node*next;
-    Node*prev;
-Node(int k , int v){
-    this->key=k;
-    this->val=v;
-    prev=next=NULL;
-}
-};
-int limit;
-unordered_map<int , Node*> map;  //to store the key and nodes
-Node* head = new Node(-1 ,-1);  //initialised (head->tail) ye to hoga hi baki add remove sb bich m iske
-Node*tail = new Node(-1 , -1);
+        int val;
+        int key;
+        Node* prev;
+        Node* next;
 
-void addNode(Node* node){ 
-    node->next=head->next;  //head ke bad add kr rhe h
-    node->prev=head;
-    head->next->prev=node;
-    head->next=node;
-}
-void deleteNode(Node* node){
-    Node* prevnode=node->prev;  //bich m se delte kr rhe h
-    Node* nextnode=node->next;
-    prevnode->next=nextnode;
-    nextnode->prev=prevnode;
-}
-void moveTohead(Node* node){   //use krli to ab aage jayegi to phle delete fr new ki trh add hojegi
-    deleteNode(node);
-    addNode(node);
-}
-Node* pop(){
-    Node* res=tail->prev;   //tail ka prev (lru) ko nikal dnge and return b
-    deleteNode(res);
-    return res;
-}
+        Node(int val, int key) {
+            this->val = val;
+            this->key = key;
+            prev = next = NULL;
+        }
+    };
+
+    Node* head;
+    Node* tail;
+    int cap, curr_cap;
+
+    unordered_map<int, Node*> map;
+
+    // Insert node at front
+    Node* insertFront(int key, int val) {
+        Node* newNode = new Node(val, key);
+
+        if (head == NULL) {
+            head = tail = newNode;
+            return newNode;
+        }
+
+        newNode->next = head;
+        head->prev = newNode;
+        head = newNode;
+
+        return newNode;
+    }
+
+    // Delete last node and return its key
+    int deleteEnd() {
+        if (tail == NULL)
+            return -1;
+
+        int dkey = tail->key;
+
+        if (head == tail) {
+            delete tail;
+            head = tail = NULL;
+            return dkey;
+        }
+
+        Node* temp = tail;
+        tail = tail->prev;
+        tail->next = NULL;
+        delete temp;
+
+        return dkey;
+    }
+
+    // Move a node to the front
+    Node* moveNthNodeFront(Node* curr) {
+        if (curr == head)
+            return curr;
+
+        // detach
+        if (curr == tail) {
+            tail = tail->prev;
+            tail->next = NULL;
+        } else {
+            curr->prev->next = curr->next;
+            curr->next->prev = curr->prev;
+        }
+
+        // insert at front
+        curr->prev = NULL;
+        curr->next = head;
+        head->prev = curr;
+        head = curr;
+
+        return curr;
+    }
 
     LRUCache(int capacity) {
-        limit=capacity;   //initialise kr rhe h
-        head->next=tail;   // sirf head->tail h abi ll m baki age sb bich m add or remove honge
-        tail->prev=head;
+        cap = capacity;
+        curr_cap = 0;
+        head = tail = NULL;
     }
-    
+
     int get(int key) {
-        if(map.find(key)==map.end()){   //agr present n h map m to -1
+        if (map.count(key) == 0)
             return -1;
-        }
-        Node* node=map[key];   //agr h present to usko node bnaliya
-        moveTohead(node);   //ab vo use hogyi to lru se mru bngyi to aage ajyegi ab
-        return node->val;   // and uski val return hogi
+
+        Node* curr = moveNthNodeFront(map[key]);
+        return curr->val;
     }
-    
+
     void put(int key, int value) {
-        if(map.find(key)!=map.end()){  //agr phle se present h to new values se overwrite hongi
-            Node* node=map[key];  //jha b h map m ussko point krlia
-            node->val=value;      //uski purani value ki jgh new value daldi
-            moveTohead(node);     // ab vo mru hogyi to aage jayegi
-        } else{
-            if(map.size()==limit){   //agr already limit jitni nodes present h map m 
-                Node* lru=pop();     // to point kra kr piche wali ko pop kradia
-                map.erase(lru->key);  //map s b erase krdia
-                deleteNode(lru);      // delte b krdia kyuki ab new dalni h
-                delete(lru);
-            }
-            Node* newNode= new Node(key , value);  //agr jgh h to new node bnakr key nd value di usse
-            map[key]=newNode;    //map m b usko add krdia
-            addNode(newNode);    //ll m b usko head ke bad add krdia
+        if (map.count(key)) {
+            Node* curr = moveNthNodeFront(map[key]);
+            curr->val = value;
+            return;
         }
-        
+
+        if (curr_cap == cap) {
+            int dkey = deleteEnd();
+            map.erase(dkey);
+            curr_cap--;
+        }
+
+        Node* curr = insertFront(key, value);
+        map[key] = curr;
+        curr_cap++;
     }
 };
 
@@ -79,4 +118,4 @@ Node* pop(){
  * LRUCache* obj = new LRUCache(capacity);
  * int param_1 = obj->get(key);
  * obj->put(key,value);
- */ 
+ */
