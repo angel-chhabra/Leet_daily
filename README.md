@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/angel-chhabra/Leet_daily/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/angel-chhabra/Leet_daily/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/angel-chhabra/Leet_daily/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0713-subarray-product-less-than-k) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/angel-chhabra/Leet_daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/angel-chhabra/Leet_daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/angel-chhabra/Leet_daily/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/angel-chhabra/Leet_daily/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/angel-chhabra/Leet_daily/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/angel-chhabra/Leet_daily/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/angel-chhabra/Leet_daily/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/angel-chhabra/Leet_daily/tree/master/2022-convert-1d-array-into-2d-array) |
