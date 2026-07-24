@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/angel-chhabra/Leet_daily/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/angel-chhabra/Leet_daily/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/angel-chhabra/Leet_daily/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/angel-chhabra/Leet_daily/tree/master/0904-fruit-into-baskets) |
@@ -63,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/angel-chhabra/Leet_daily/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/angel-chhabra/Leet_daily/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/angel-chhabra/Leet_daily/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/angel-chhabra/Leet_daily/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/angel-chhabra/Leet_daily/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/angel-chhabra/Leet_daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/angel-chhabra/Leet_daily/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/angel-chhabra/Leet_daily/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
