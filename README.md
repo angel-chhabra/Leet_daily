@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/angel-chhabra/Leet_daily/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/angel-chhabra/Leet_daily/tree/master/1695-maximum-erasure-value) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/angel-chhabra/Leet_daily/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/angel-chhabra/Leet_daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/angel-chhabra/Leet_daily/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/angel-chhabra/Leet_daily/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/angel-chhabra/Leet_daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/angel-chhabra/Leet_daily/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/angel-chhabra/Leet_daily/tree/master/1021-remove-outermost-parentheses) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/angel-chhabra/Leet_daily/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/angel-chhabra/Leet_daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/angel-chhabra/Leet_daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/angel-chhabra/Leet_daily/tree/master/0739-daily-temperatures) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/angel-chhabra/Leet_daily/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/angel-chhabra/Leet_daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/angel-chhabra/Leet_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/angel-chhabra/Leet_daily/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/angel-chhabra/Leet_daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Two Pointers
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/angel-chhabra/Leet_daily/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/angel-chhabra/Leet_daily/tree/master/0876-middle-of-the-linked-list) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/angel-chhabra/Leet_daily/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/angel-chhabra/Leet_daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
