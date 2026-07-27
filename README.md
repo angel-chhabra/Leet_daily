@@ -331,20 +331,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
