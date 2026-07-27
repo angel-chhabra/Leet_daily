@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/angel-chhabra/Leet_daily/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/angel-chhabra/Leet_daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/angel-chhabra/Leet_daily/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/angel-chhabra/Leet_daily/tree/master/1672-richest-customer-wealth) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/angel-chhabra/Leet_daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/angel-chhabra/Leet_daily/tree/master/0349-intersection-of-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/angel-chhabra/Leet_daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Interactive
 |  |
 | ------- |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/angel-chhabra/Leet_daily/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/angel-chhabra/Leet_daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
