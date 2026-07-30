@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/angel-chhabra/Leet_daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/1609-even-odd-tree) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/angel-chhabra/Leet_daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/angel-chhabra/Leet_daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/1609-even-odd-tree) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/angel-chhabra/Leet_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/angel-chhabra/Leet_daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/1609-even-odd-tree) |
@@ -448,4 +452,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/angel-chhabra/Leet_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/angel-chhabra/Leet_daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
