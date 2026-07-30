@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/angel-chhabra/Leet_daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/angel-chhabra/Leet_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/angel-chhabra/Leet_daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/angel-chhabra/Leet_daily/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/angel-chhabra/Leet_daily/tree/master/0496-next-greater-element-i) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/angel-chhabra/Leet_daily/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/angel-chhabra/Leet_daily/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/angel-chhabra/Leet_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/angel-chhabra/Leet_daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/angel-chhabra/Leet_daily/tree/master/0146-lru-cache) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/angel-chhabra/Leet_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/angel-chhabra/Leet_daily/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0226-invert-binary-tree) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/angel-chhabra/Leet_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/angel-chhabra/Leet_daily/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0226-invert-binary-tree) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/angel-chhabra/Leet_daily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/angel-chhabra/Leet_daily/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0226-invert-binary-tree) |
