@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/angel-chhabra/Leet_daily/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/angel-chhabra/Leet_daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/angel-chhabra/Leet_daily/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/angel-chhabra/Leet_daily/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/angel-chhabra/Leet_daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/angel-chhabra/Leet_daily/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/angel-chhabra/Leet_daily/tree/master/0326-power-of-three) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/angel-chhabra/Leet_daily/tree/master/0022-generate-parentheses) |
+| [0096-unique-binary-search-trees](https://github.com/angel-chhabra/Leet_daily/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/angel-chhabra/Leet_daily/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/angel-chhabra/Leet_daily/tree/master/0907-sum-of-subarray-minimums) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/angel-chhabra/Leet_daily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/angel-chhabra/Leet_daily/tree/master/0102-binary-tree-level-order-traversal) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/angel-chhabra/Leet_daily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/angel-chhabra/Leet_daily/tree/master/0102-binary-tree-level-order-traversal) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/angel-chhabra/Leet_daily/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/angel-chhabra/Leet_daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0700-search-in-a-binary-search-tree) |
