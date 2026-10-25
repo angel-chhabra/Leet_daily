@@ -513,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/angel-chhabra/Leet_daily/tree/master/0207-course-schedule) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/angel-chhabra/Leet_daily/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
