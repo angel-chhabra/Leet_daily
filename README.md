@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/angel-chhabra/Leet_daily/tree/master/0128-longest-consecutive-sequence) |
+| [0785-is-graph-bipartite](https://github.com/angel-chhabra/Leet_daily/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/angel-chhabra/Leet_daily/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/angel-chhabra/Leet_daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/angel-chhabra/Leet_daily/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/angel-chhabra/Leet_daily/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/angel-chhabra/Leet_daily/tree/master/0938-range-sum-of-bst) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/angel-chhabra/Leet_daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/angel-chhabra/Leet_daily/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/angel-chhabra/Leet_daily/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/angel-chhabra/Leet_daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/angel-chhabra/Leet_daily/tree/master/1302-deepest-leaves-sum) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/angel-chhabra/Leet_daily/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/angel-chhabra/Leet_daily/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/angel-chhabra/Leet_daily/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/angel-chhabra/Leet_daily/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/angel-chhabra/Leet_daily/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/angel-chhabra/Leet_daily/tree/master/1971-find-if-path-exists-in-graph) |
@@ -525,4 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/angel-chhabra/Leet_daily/tree/master/0084-largest-rectangle-in-histogram) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/angel-chhabra/Leet_daily/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/angel-chhabra/Leet_daily/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
